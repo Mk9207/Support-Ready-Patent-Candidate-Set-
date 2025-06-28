@@ -52,3 +52,6 @@ A. 下記X（旧Twitter）アカウントまたはメールにてご連絡くだ
 - メール：Kisskarima@gmail.com
 
 皆様のご支援が未来の理論構築を支えます。ご協力に心より感謝申し上げます。
+
+🔗 公開ページはこちら：  
+[https://mk9207.github.io/Support-Ready-Patent-Candidate-Set-/](https://mk9207.github.io/Support-Ready-Patent-Candidate-Set-/)
