@@ -24,7 +24,7 @@ This project delivers selected patent-candidate structures created through Const
 ## 📦 提供形式 | Delivery Format
 
 - 英記のPDFファイル（Overleaf互換）
-- タイトル＋説明文（簡潔）＋応用例（2つ）
+- タイトル＋説明文＋応用例（2つ）
 - 支援額に応じて追加提供（最大30件）
 
 ---
